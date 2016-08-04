@@ -2,3 +2,8 @@ body {
   background-color: LightSkyBlue;
   font-family: "Arial", sans-serif;
 }
+
+div {
+  width: 500px;
+  border: 5px solid black;
+}
