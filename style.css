@@ -11,5 +11,12 @@ div {
   
   border: 5px solid black;
   
+  border-radius: 25px;  /* can take up to 4 different inputs */
+  
   margin: 20px;
+}
+
+p {
+  background-color: 'AliceBlue';
+  width: 50%;
 }
